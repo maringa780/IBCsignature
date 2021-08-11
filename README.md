@@ -31,5 +31,5 @@ See option2 below
 -MatSurv (Optional) https://github.com/aebergl/MatSurv
 #### Installation and analysis
 -Download *'RunG59.m'*, *'IBCsignature.m'* and *'Data.tar.gz'* file (contains data used in Zare *et al*).  
--Open *'RunG59.m'* and follow instructions in this file 
--*'IBCsignature.m'* code can easily be customized to score novel datasets
+-Open *'RunG59.m'* and follow instructions in this file   
+-*'IBCsignature.m'* can easily be customized to score novel datasets
