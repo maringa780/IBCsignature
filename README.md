@@ -11,7 +11,7 @@ See option2 below.
 See option2 below.
 
 #### Installation
--Download *'IBCsignatureGUI.exe'* and *'Data.tar.gz'* file (*'Data.tar.gz'* contains data used in Zare *et al*). If you don't have a software to uncompress '.tar' and '.gz' files, download *'UnZipUnTAr.exe'*.  
+-Download *'IBCsignatureGUI.exe'* and *'Data.tar.gz'* file (*'Data.tar.gz'* contains data files used in Zare *et al*). If you don't have a software to uncompress '.tar' and '.gz' files, download *'UnZipUnTAr.exe'*.  
 -Install *'IBCsignatureGUI.exe'* file as you would any other windows executable file. During the installation process, there will be a one time request to install MATLAB Compiler if not found in your system (MATLAB Runtime Version 9.5 for APPs compiled in MATLAB R2018b). After succesfully installing *'IBCsignatureGUI.exe'*, if need be, install *'UnZipUnTar.exe'*. 
 #### Analysis
 -Start the installed *'IBCsignatureGUI.exe'* software (the graphical user interface (GUI) is shown below. Note, the cyan *'Initiate G59 analysis & random forest'* button will be invisible and will only appear when data to be analyzed is selected using the knob).  
@@ -30,6 +30,6 @@ See option2 below.
 -Bioinformatics Toolbox, version 4.11 or higher.  
 -MatSurv (Optional) https://github.com/aebergl/MatSurv .  
 #### Installation and analysis
--Download *'RunG59.m'*, *'IBCsignature.m'* and *'Data.tar.gz'* file (*'Data.tar.gz'* contains data used in Zare *et al*).  
+-Download *'RunG59.m'*, *'IBCsignature.m'* and *'Data.tar.gz'* file (*'Data.tar.gz'* contains data files used in Zare *et al*).  
 -Open *'RunG59.m'* and follow instructions in this file.   
 -*'IBCsignature.m'* can easily be customized to score novel datasets.
