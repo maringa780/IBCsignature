@@ -1,4 +1,4 @@
-# IBCsignature
+# IBC signature
 
 ### OPTION 1; IBC signature standalone GUI (no need to install MATLAB)
 Reproduces the analysis reported in Zare *et al*. To score novel IBC/nonIBC dataset, see option 2 (scoring novel dataset in this GUI will be incorporated in the near future)
@@ -30,4 +30,6 @@ See option2 below
 -Bioinformatics Toolbox, version 4.11 or higher  
 -MatSurv (Optional) https://github.com/aebergl/MatSurv
 #### Installation and analysis
--Download *
+-Download *'RunG59.m'*, *'IBCsignature.m'* and *'Data.tar.gz'* file (contains data used in Zare *et al*).  
+-Open *'RunG59.m'* and follow instructions in this file 
+-*'IBCsignature.m'* code can easily be customized to score novel datasets
