@@ -1,6 +1,7 @@
 # IBCsignature
 
 ### OPTION 1; IBC signature standalone GUI
+Reproduces the analysis reported in Zare *et al*. To score IBC/nonIBC dataset, see option 2 
 #### Supported Operating Systems
 ###### Windows
 Has been successfully tested on Windows 7 and Windows 10 (see installation process below)
@@ -14,6 +15,7 @@ Download *'IBCsignatureGUI.exe'* and *'Data.tar.gz'* file (contains data used in
 Install *'IBCsignatureGUI.exe'* file as you would any other windows executable file. During the installation process, there will be a one time request to install MATLAB Compiler if not found in your system (MATLAB Runtime Version 9.5 for APPs compiled in MATLAB R2018b). After succesfully installing *'IBCsignatureGUI.exe'*, if need be, install *'UnZipUnTar.exe'*. 
 #### Analysis
 Start the installed *'IBCsignatureGUI.exe'* software (the graphical user interface (GUI) is shown below. Note, the cyan *'Initiate G59 analysis & random forest'* button will be invisible and will only appear when data to be analyzed is selected using the knob). To uncompress *'Data.tar.gz'*, start *'UnZipUnTar.exe'* GUI, click *'Uncompress .tar.gz file'* and follow instructions. 
+Select data to 
 T
 
  
