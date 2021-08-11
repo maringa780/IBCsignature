@@ -1,7 +1,7 @@
 # IBCsignature
 
 ### OPTION 1; IBC signature standalone GUI
-#### System
+#### Supported Operating Systems
 ###### Windows
 Has been successfully tested on Windows 7 and Windows 10 (see installation process below)
 ###### Mac
