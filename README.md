@@ -28,7 +28,7 @@ See option2 below.
 #### Dependency
 -Statistics and Machine Learning Toolbox, version 11.4 or higher.  
 -Bioinformatics Toolbox, version 4.11 or higher.  
--MatSurv (Optional) https://github.com/aebergl/MatSurv .  
+-MatSurv (Optional) https://github.com/aebergl/MatSurv (download and add to MATLAB path).  
 #### Installation and analysis
 -Download *'RunG59.m'*, *'IBCsignature.m'* and *'Data.tar.gz'* file (*'Data.tar.gz'* contains data files used in Zare *et al*).  
 -Add *'IBCsignature.m'* to MATLAB path.  
