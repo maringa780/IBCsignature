@@ -1,5 +1,8 @@
 # IBC signature
 
+#### Citing IBC signature
+Zare *et al* (2021), Robust inflammatory breast cancer gene signature using nonparametric random forest analysis. DOI:  
+
 ### OPTION 1; IBC signature standalone GUI (no need to install MATLAB)
 Reproduces the analysis reported in Zare *et al*. To score novel IBC/nonIBC dataset, see option 2 (scoring novel dataset in this GUI will be incorporated in the near future).
 #### Supported Operating Systems
