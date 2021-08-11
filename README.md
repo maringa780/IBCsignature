@@ -26,6 +26,8 @@ See option2 below
 ### OPTION 2; Run directly in MATLAB
 -Technically, should work on any Operating System with MATLAB installed.
 #### Dependency
--Download *
+-Statistics and Machine Learning Toolbox, version 11.4 or higher
+-Bioinformatics Toolbox, version 4.11 or higher
+-MatSurv (Optional) https://github.com/aebergl/MatSurv
 #### Installation and analysis
 -Download *
