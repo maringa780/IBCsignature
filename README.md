@@ -5,7 +5,7 @@ IBC signature is a set of genes which were determined to have high accuracy in d
 Zare *et al* (2021), Robust inflammatory breast cancer gene signature using nonparametric random forest analysis. DOI:  
 
 ### OPTION 1; IBC signature standalone GUI (no need to install MATLAB)
-Reproduces the analysis reported in Zare *et al*. To score novel IBC/nonIBC dataset, see option 2 (scoring novel dataset in this GUI will be incorporated in the near future).
+Reproduces the analysis reported in Zare *et al*. To score novel IBC/nonIBC dataset, see option 2 (scoring novel datasets in this GUI will be incorporated in the near future).
 #### Supported Operating Systems
 ###### Windows
 Has been successfully tested on Windows 7 and Windows 10 (see installation process below).
