@@ -19,7 +19,7 @@ See option2 below.
 -Install *'IBCsignatureGUI.exe'* file as you would any other windows executable file. During the installation process, there will be a one time request to install MATLAB Compiler if not found in your system (MATLAB Runtime Version 9.5 for APPs compiled in MATLAB R2018b). After succesfully installing *'IBCsignatureGUI.exe'*, if need be, install *'unzip_untar.exe'*. 
 #### Analysis
 -Start the installed *'IBCsignatureGUI.exe'* software (the graphical user interface (GUI) is shown below. Note, the cyan *'Initiate G59 analysis & random forest'* button will be invisible and will only appear when data to be analyzed is selected using the knob).  
--To uncompress *'Data.tar.gz'*, start *'unzip_untar.exe'* GUI, click *'Uncompress .tar.gz file'* and follow instructions. 
+-To uncompress *'Data.tar.gz'*, start *'unzip_untar.exe'* GUI, click *'Uncompress .tar.gz file'* and follow instructions.  
 -Click *'Data directory'* button and select uncompressed Data directory/folder.   
 -Turn the knob to select data to analyze. Click *'Initiate G59 analysis & random forest'* button to initiate analysis.
 
@@ -28,7 +28,7 @@ See option2 below.
 
 
 ### OPTION 2; Run directly in MATLAB
--Technically, should work on any Operating System with MATLAB installed (successfully tested in MATLAB R2018a/b).
+-Technically, should work on any Operating System with MATLAB installed (successfully tested in MATLAB R2018a/b on Windows OS).
 #### Dependency
 -Statistics and Machine Learning Toolbox, version 11.4 or higher.  
 -Bioinformatics Toolbox, version 4.11 or higher.  
