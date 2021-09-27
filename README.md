@@ -2,7 +2,7 @@
 IBC signature is a set of genes which were determined to have high accuracy in discriminating IBC from non-IBC samples (pre-treatment core biopsy samples) in a random forest based model (see citation below for details).
 
 #### Citing IBC signature
-Zare *et al* (2021), Robust inflammatory breast cancer gene signature using nonparametric random forest analysis. https://doi.org/10.1186/s13058-021-01467-y  
+Zare, A., Postovit, LM. & Githaka, J.M. Robust inflammatory breast cancer gene signature using nonparametric random forest analysis. *Breast Cancer Res* 23, 92 (2021). https://doi.org/10.1186/s13058-021-01467-y  
 
 ### OPTION 1; IBC signature standalone GUI (no need to install MATLAB)
 Reproduces the analysis reported in Zare *et al*. To score novel IBC/nonIBC dataset, see option 2 (scoring novel datasets in this GUI will be incorporated in the near future).
